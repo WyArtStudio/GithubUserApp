@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">GithubUserApp</string>
+    <string name="title" translatable="false">My Github User App</string>
+    <string name="icon" translatable="false">Icon</string>
+    <string name="strip" translatable="false">-</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="icon_company" translatable="false">Icon Company</string>
+    <string name="icon_followers_following" translatable="false">Icon Followers Following</string>
+    <string name="icon_circle" translatable="false">Icon Circle</string>
+
+    <string name="title_bar" translatable="true">Github Search User</string>
+    <string name="name" translatable="true">Name</string>
+    <string name="detail_user" translatable="true">Detail User</string>
+    <string name="username" translatable="true">Username</string>
+    <string name="search_user" translatable="true">Search user</string>
+    <string name="textFollowers" translatable="true">followers</string>
+    <string name="textFollowing" translatable="true">following</string>
+    <string name="repositories" translatable="true">repository</string>
+    <string name="favorite_users" translatable="true">Favorite Users</string>
+    <string name="dark_theme" translatable="true">Dark Theme</string>
+    <string name="followers" translatable="true">Followers</string>
+    <string name="following" translatable="true">Following</string>
+    <string name="change_language" translatable="true">Change Language</string>
+    <string name="settings" translatable="true">Settings</string>
+    <string name="dialog_clear" translatable="true">Clear favorite users?</string>
+    <string name="yes" translatable="true">Yes</string>
+    <string name="no" translatable="true">No</string>
+    <string name="click_exit" translatable="true">Click again to exit</string>
+    <string name="added_favorite" translatable="true">Added to favorite!</string>
+    <string name="deleted_favorite" translatable="true">Deleted from favorite!</string>
+</resources>
